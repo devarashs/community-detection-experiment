@@ -1,0 +1,4 @@
+experiment_id,dataset,embedding,initial_method,k_clusters,mod_before,mod_after,missing_nodes,notes
+001-louvain,hyperedges-contact-high-school,Node2Vec,KMeans,10,0.6058,0.673,0,Louvain refinement from EC
+001-leiden,hyperedges-contact-high-school,node2vec,KMeans,10,0.5768,0.0673,0,Leiden refinement from EC
+generate_louvian_partition-hlouvain,hyperedges-contact-high-school,Node2Vec,KMeans,10,0.6451,0.6708,0,H-Louvain refinement from EC

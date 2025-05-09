@@ -1,0 +1,9 @@
+{
+  "dataset": "hyperedges-contact-high-school",
+  "ec_experiment_id": "001",
+  "embedding": "Node2Vec",
+  "k_clusters": 10,
+  "modularity_before_louvain": 0.6058371589278864,
+  "modularity_after_louvain": 0.6729746656516601,
+  "missing_nodes_handled": 0
+}

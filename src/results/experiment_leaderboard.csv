@@ -1,0 +1,5 @@
+experiment_id,dataset,embedding,clustering,k_clusters,ami_score,modularity,runtime_sec,notes
+
+001,synthetic_txt,Node2Vec,KMeans,10,0.1896,TBD,0.0,loaded_txt
+002,synthetic_txt,DeepWalk,KMeans,10,0.189,TBD,0.0,loaded_txt
+generate_louvian_partition_txt,synthetic_200_10comm_txt,Node2Vec,KMeans,10,0.1864,0.6464,4.83,loaded_txt_for_hlouvain

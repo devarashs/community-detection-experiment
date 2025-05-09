@@ -1,0 +1,14 @@
+{
+  "dataset": "hyperedges-contact-high-school",
+  "num_clusters": 6,
+  "modularity_2section": 0.6663698124352075,
+  "h_modularity": 0.6632490557477149,
+  "alpha_sequence": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ]
+}

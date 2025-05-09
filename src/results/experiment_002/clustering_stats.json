@@ -1,0 +1,8 @@
+{
+  "n_nodes": 327,
+  "n_edges": 5818,
+  "embedding_dim": 16,
+  "k_clusters": 10,
+  "ami": 0.1889519218676631,
+  "modularity": "TBD"
+}

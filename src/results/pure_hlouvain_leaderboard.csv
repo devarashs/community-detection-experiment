@@ -1,0 +1,2 @@
+experiment_id,dataset,k_clusters,mod_score,h_mod_score,notes
+pure_hlouvain,hyperedges-contact-high-school,6,0.6664,0.6632,

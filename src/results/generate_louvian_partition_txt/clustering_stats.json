@@ -1,0 +1,8 @@
+{
+  "n_nodes": 327,
+  "n_edges": 5818,
+  "embedding_dim": 16,
+  "k_clusters": 10,
+  "ami": 0.186436635378401,
+  "modularity": 0.6464055938799339
+}

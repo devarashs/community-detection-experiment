@@ -1,0 +1,17 @@
+{
+  "dataset": "hyperedges-contact-high-school",
+  "ec_experiment_id": "generate_louvian_partition",
+  "embedding": "Node2Vec",
+  "k_clusters": 10,
+  "modularity_before_hlouvain": 0.6450636427522857,
+  "modularity_after_hlouvain": 0.6708272274718383,
+  "h_modularity": 0.7715190717572901,
+  "alpha_sequence": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ]
+}
