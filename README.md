@@ -2,9 +2,7 @@
 
 ## Overview
 
-This repository presents an experimental implementation of community detection algorithms tailored for hypergraphs. It explores a novel approach by transforming hyperedges into a two-section graph using node embedding techniques (Node2Vec and DeepWalk) followed by initial partitioning with K-Means. The resulting graph is then analyzed using three prominent community detection algorithms: Louvain, Leiden, and a hierarchical Louvain variant (H-Louvain). Additionally, the repository includes a pure implementation of the H-Louvain algorithm for direct application on hypergraph data.
-
-This project was initially conceived as a phase one experiment to investigate [briefly mention the broader goal if you're comfortable, e.g., "scalable community detection in complex relational data"]. The current state offers a valuable resource for researchers and practitioners interested in exploring advanced community detection techniques for hypergraphs.
+This repository presents an experimental implementation of community detection algorithms tailored for hypergraphs. It explores a novel approach by transforming hyperedges into a two-section graph using node embedding techniques (Node2Vec and DeepWalk) followed by initial partitioning with K-Means. The resulting graph is then analyzed using three prominent community detection algorithms: Louvain, Leiden, and a hierarchical Louvain variant (H-Louvain).
 
 ## Key Features
 
@@ -33,7 +31,7 @@ This project was initially conceived as a phase one experiment to investigate [b
 
 ## Contributing
 
-Contributions are welcome!  Please feel free to submit pull requests or contact the maintainers directly to discuss potential contributions.
+Contributions are welcome! Please feel free to submit pull requests or contact the maintainers directly to discuss potential contributions.
 
 ## License
 
