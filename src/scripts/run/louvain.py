@@ -9,8 +9,8 @@ from scripts.run.utils_louvain import load_partition, compute_modularity, run_lo
 
 # === Config ===
 dataset_name = "hyperedges-contact-high-school"
-experiment_id = "001"
-embedding_type = "Node2Vec"
+experiment_id = "002"
+embedding_type = "deepwalk"
 k_clusters = 10
 hyperedge_file = "data/synthetic_hypergraph_for_hlouvain.txt"
 partition_file = f"results/experiment_{experiment_id}/ec_partition.json"

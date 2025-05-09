@@ -1,0 +1,9 @@
+{
+  "dataset": "hyperedges-contact-high-school",
+  "ec_experiment_id": "002",
+  "embedding": "deepwalk",
+  "k_clusters": 10,
+  "modularity_before_louvain": 0.6445590496271065,
+  "modularity_after_louvain": 0.6728161205681191,
+  "missing_nodes_handled": 0
+}
